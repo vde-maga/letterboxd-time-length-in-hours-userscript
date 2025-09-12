@@ -2,7 +2,7 @@
 
 A simple userscript that converts movie runtimes on Letterboxd from minutes into a more readable hours and minutes format (e.g., "123 mins" becomes "2:03h").
 
-...
+![Preview](https://raw.githubusercontent.com/ruiribeiro04/letterboxd-time-length-in-hours-userscript/refs/heads/main/.images/preview.png)
 
 ---
 
@@ -16,7 +16,7 @@ To use this script, you need a userscript manager browser extension. The most po
     - Or any other manager of your choice.
 
 2.  **Install the Script:**
-    - ...
+    - Click [here](https://raw.githubusercontent.com/ruiribeiro04/letterboxd-time-length-in-hours-userscript/refs/heads/main/src/letterboxd_time_length_minutes_to_hours.user.js) to install the script.
 
     Your userscript manager will open and ask you to confirm the installation. Just click "Install".
 
